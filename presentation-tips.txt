@@ -1,0 +1,62 @@
+Goal
+====
+
+
+- Create a structure with parts etc and who says what when / storyline
+- The point is to attract audience attention with a good way
+- Use inrows and outrows (transitions) between topics or when changing presenters
+- Use images, sketches, videos and anything visual to support your topic
+- Make your voice tone excited, boring, serious and not the same all the time
+- practice by recording yourself and watching it so in real time 
+- SHOW WHAT IT DOES AND WHAT YOU DID AND NOT WHAT IT DOESN'T WORK AND WHAT YOU DIDN'T IMPLEMENT.
+
+ If someone asks explicitly for some feature that doesn't work then simply answer that it doesn't work and will be implemented in future deployments. No need to lie.
+ 
+ What to Avoid
+ 
+ - When speaking, avoid too many 'mmm', 'aaaa', 'eeee'
+ - For the features that are not working/implemented yet, you can say that will be implemented in future deployments.
+ - Become too technical (e.g. showing your code) unless it's something unique or worth showing
+ - NO LAST MINUTE CHANGES ON THE PRESENTED PROJECT
+ 
+ Must do
+ 
+ - Practise your presentation in front of a camera. record it and watch it. repeat until you feel comfortable.
+	you don't have to have attention on how you look or how you sound. Your attention should be on the app or at the audience.
+ 
+ - have as backup a local WORKING version
+ 
+ Nice to have
+ 
+ - Deploy on a public address so viewers can interact with it themselves
+ - It's responsive
+ - Presentation
+ - Ideally your voice is calm and natural. If not, make sure you don't speak fast and make sure you have silence moments between sentences
+ 
+Presentation topics:
+
+- Introduction: Begin by introducing your project, explaining what it does, and its purpose.
+
+- Project Overview: Provide a high-level overview of your project, highlighting the key features and functionalities.
+
+- Technologies used: List all the technologies used in the project including the MERN stack (MongoDB, Express, React, and Node.js) and any additional libraries or frameworks.
+
+- Project Architecture: Explain the architecture of your project including how the frontend and backend interact with each other.
+
+- Design and User Experience: Discuss the design elements of your project including the user interface, user experience, and any design decisions you made.
+
+- Features and Functionalities: Walk through each feature and functionality of your project, explaining how they work and the benefits they provide.
+
+- Challenges and Solutions: Discuss the challenges you faced while building the project and the solutions you came up with to overcome them.
+
+- Testing and Deployment: Explain how you tested the project and how you deployed it to a live server.
+
+- Future Improvements: Discuss the future improvements you would like to make to the project and how they would enhance its functionality.
+
+- Conclusion: Wrap up your presentation by summarizing your project, its key features, and how it benefits its users.
+
+In addition to the above components, it's important to have a demo of the project so that the audience can see it in action. You can also provide code snippets or a GitHub link for those who are interested in exploring the project's code.
+ 
+ 
+ 
+
